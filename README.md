@@ -7,3 +7,7 @@ Run the following script
 ```bash
 sh -c "$(curl -fsSL https://raw.github.com/Xonay/year-script/master/index.sh)"
 ```
+
+# References
+
+https://github.com/antfu/1990-script
